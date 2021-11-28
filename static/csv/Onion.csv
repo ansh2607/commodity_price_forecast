@@ -1,0 +1,22 @@
+,timestamp,state,district,market,commodity,variety,arrival_date,min_price,max_price,modal_price
+7,1619976905,Karnataka,Bellary,Hospet,Onion,Local,02-05-21,1600,1600,1600
+24,1619976905,Karnataka,Kolar,Kolar,Onion,Other,02-05-21,2000,2500,2300
+32,1619976905,Maharashtra,Ahmednagar,Parner,Onion,Other,02-05-21,200,1400,975
+62,1619976905,Maharashtra,Pune,Junnar(Alephata),Onion,Other,02-05-21,350,1400,750
+77,1619976905,Maharashtra,Satara,Satara,Onion,Other,02-05-21,1000,1200,1100
+94,1619976905,Odisha,Angul,Angul(Jarapada),Onion,Other,02-05-21,1800,2000,2000
+97,1619976905,Odisha,Ganjam,Hinjilicut,Onion,Other,02-05-21,1800,2500,2000
+101,1619976905,Odisha,Mayurbhanja,Betnoti,Onion,Other,02-05-21,1800,2200,2000
+126,1619976905,Punjab,Gurdaspur,Dinanagar,Onion,Other,02-05-21,1400,1500,1450
+160,1619976905,Punjab,Tarntaran,Patti,Onion,Other,02-05-21,1000,1500,1300
+231,1619976905,Uttar Pradesh,Agra,Achnera,Onion,Red,02-05-21,1360,1440,1400
+240,1619976905,Uttar Pradesh,Baghpat,Khekda,Onion,Red,02-05-21,1300,1500,1400
+248,1619976905,Uttar Pradesh,Barabanki,Rudauli,Onion,Red,02-05-21,1400,1480,1440
+255,1619976905,Uttar Pradesh,Farukhabad,Kamlaganj,Onion,Red,02-05-21,1400,1500,1450
+259,1619976905,Uttar Pradesh,Jhansi,Moth,Onion,Red,02-05-21,1055,1200,1160
+266,1619976905,Uttar Pradesh,Muradabad,Sambhal,Onion,Red,02-05-21,500,1000,600
+269,1619976905,West Bengal,Bankura,Bishnupur(Bankura),Onion,Nasik,02-05-21,2000,2200,2100
+277,1619976905,West Bengal,Birbhum,Birbhum,Onion,Other,02-05-21,2000,2300,2100
+295,1619976905,West Bengal,North 24 Parganas,Barasat,Onion,Other,02-05-21,2000,2000,2000
+302,1619976905,West Bengal,North 24 Parganas,Habra,Onion,Other,02-05-21,1900,2000,2000
+309,1619976905,West Bengal,Puruliya,Purulia,Onion,Other,02-05-21,1500,1800,1600
